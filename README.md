@@ -1,6 +1,6 @@
 ## Welcome to my Profile!
 - Research interests: tornado climatology and forecasting
-- Personal interests: ukiyo-e, photography, FPS games, metal music
+- Personal interests: ukiyo-e, photography, FPS games, metal music, earthquakes
 - Computer languages: Python, Matlab, Fortran
 - Human languages: English (native), Japanese (advanced)
 ### Contributions
