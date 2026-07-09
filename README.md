@@ -4,6 +4,6 @@
 - Languages: Python, Matlab, Fortran
 
 
-Contributions
+# Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/alphabyte161/alphabyte161/output/github-contribution-grid-snake-dark.svg)
