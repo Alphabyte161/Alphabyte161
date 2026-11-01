@@ -1,5 +1,5 @@
 ## Welcome to my Profile!
-- Research interests: tornado climatology and forecasting
+- Research interests: NWP and its applications to tornado forecasting
 - Personal interests: ukiyo-e, photography, FPS games, metal music, earthquakes
 - Computer languages: Python, Matlab, Fortran, Rust (Learning)
 - Human languages: English (native), Japanese (advanced)
